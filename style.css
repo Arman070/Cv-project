@@ -1,0 +1,110 @@
+*{
+margin: 0%;
+padding: 0%;
+
+}
+
+body {
+   background-color: #EEE;
+ 
+ margin: 0 auto;  font-family: 'Roboto', sans-serif;
+}
+
+
+
+     .container{
+
+
+        max-width: 1000px;
+        background-color: rgb(202, 218, 215);
+        margin: 0 auto;
+padding: 20px;
+
+     }
+   
+
+header {
+
+}
+
+    .profile-car{
+
+width: 100px;
+height: 110px;
+border: 3px solid #e7e6e3; 
+border-radius: 50%;
+float: left;
+ }
+ .header-bio {
+float: left;
+padding: 30px;
+
+ }
+
+ h1, h2, h3, h4, h5, h6 {
+
+   color: #11999e;
+ }
+
+ .header-contact  {
+float: right;
+padding: 40auto;
+
+ }
+ .header-contact a{ 
+  text-decoration: none;
+   color: rgb(17, 0, 255);
+    font-weight: bolds;
+
+
+ }
+
+ .header-contact a:hover {
+   text-decoration:underline ;
+   color: tomato;
+ }
+
+ .div-clear{
+
+clear: both;
+}
+hr{
+ border: solid black 3px; 
+ width: 100%;
+ margin: 20px auto;
+ border-bottom: none;
+
+
+}
+
+
+/*-------------------
+
+Personal section start
+
+----------------------*/
+#personal-section {
+
+
+}
+
+.content {
+margin-bottom: 30px;
+}
+.left-div{
+width: 30%;
+float: left;
+}
+
+.right-div{
+  width: 70%;
+  float: left;
+}
+.common-hr{
+
+  border: solid black 1px;
+border-bottom: none;
+width: 100%;
+margin: 20px auto;
+
+}
